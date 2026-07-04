@@ -1,3 +1,4 @@
+![EcoWeather Guard Logo](Logo.png)
 # 🌍 EcoWeather Guard Agent (Kaggle Capstone)
 
 An elegant, lightweight, cloud-native expert system submitted under the **Agents for Good** track for the July 2026 Kaggle AI Agents Intensive.
