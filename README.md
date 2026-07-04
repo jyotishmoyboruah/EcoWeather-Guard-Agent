@@ -22,4 +22,4 @@ EcoWeather Guard bridges the gap between raw, complex atmospheric metrics and re
 1. Clone this repository.
 2. Create a local `.env` file using the configuration keys shown in `.env.template`.
 3. Execute `agent.py` or step through the provided Jupyter Notebook cells to stream real-time coordinate reports.
-
+![EcoWeather Guard Architecture Flowchart](Flowchart.png)
